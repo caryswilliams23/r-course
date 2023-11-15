@@ -57,7 +57,9 @@ names(mod_sum)
 plot(my1$no, my1$no2)
 abline(a=coefficients[1], b = coefficients[2], col= "red")
 
-#looking at colours in R
+#color() shows all valid colour names 
+
+
 
 
 #notes
